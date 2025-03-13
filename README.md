@@ -1,3 +1,9 @@
+**# SAM2_streaming**
+[**storagy-repo-5**](https://github.com/addinedu-advance-3rd/storagy-repo-5) 리포지토리에 submodule화하기 위해 **forked**된 [**SAM2_streaming**](https://github.com/khw11044/SAM2_streaming) 리포지토리입니다.
+
+아래부터는 2025.03.13(목) 기준 원본 README.md의 내용입니다.
+
+
 # segment-anything-2 real-time WebCam Streaming
 Run Segment Anything Model 2 on a **live video stream**
 
