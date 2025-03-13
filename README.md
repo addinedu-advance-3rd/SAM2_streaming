@@ -1,5 +1,27 @@
-**# SAM2_streaming**
+# SAM2_streaming
+## 소개
 [**storagy-repo-5**](https://github.com/addinedu-advance-3rd/storagy-repo-5) 리포지토리에 submodule화하기 위해 **forked**된 [**SAM2_streaming**](https://github.com/khw11044/SAM2_streaming) 리포지토리입니다.
+
+## 수정 사항
+1. 수정된 파일
+ - demo_webcam_point.py
+
+2. 삭제된 디렉토리, 파일
+ - configs/sam2.1
+ - configs/sam2.1_training
+ - output_gif
+ - videos
+ - demo_webcam_box.py
+ - demo_webcam_yolo.py
+ - demo.py
+
+ 3. 추가된 파일
+ - .gitattributes
+ - package.xml
+ - colcon.pkg
+ - configs/sam2/sam2_hiera_tiny.pt
+ - sam2_streaming/__init__.py
+
 
 아래부터는 2025.03.13(목) 기준 원본 README.md의 내용입니다.
 
